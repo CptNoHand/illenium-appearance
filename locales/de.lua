@@ -152,9 +152,9 @@ Locales["de"] = {
         }
     },
     outfitManagement = {
-        title = "Kostümverwaltung",
-        jobText = "Verwalten Sie Kostüme für den Job",
-        gangText = "Verwalten Sie Kostüme für die Gang"
+        title = "Outfitverwaltung",
+        jobText = "Verwalten Sie Outfits für den Job",
+        gangText = "Verwalten Sie Outfits für die Gang"
     },
     cancelled = {
         title = "Benutzerdefinierte Anpassung abgebrochen",
@@ -162,47 +162,47 @@ Locales["de"] = {
     },
     outfits = {
         import = {
-            title = "Geben Sie den Kostüm-Code ein",
-            menuTitle = "Kostüm importieren",
-            description = "Importieren Sie ein Kostüm aus einem Sharing-Code",
+            title = "Geben Sie den Outfit-Code ein",
+            menuTitle = "Outfit importieren",
+            description = "Importieren Sie ein Outfit aus einem Sharing-Code",
             name = {
-                label = "Nennen Sie das Kostüm",
-                placeholder = "Ein schönes Kostüm",
-                default = "Importiertes Kostüm"
+                label = "Nennen Sie das Outfit",
+                placeholder = "Ein schönes Outfit",
+                default = "Importiertes Outfit"
             },
             code = {
-                label = "Kostüm-Code"
+                label = "Outfit-Code"
             },
             success = {
-                title = "Kostüm importiert",
-                description = "Sie können jetzt das Kostüm über das Kostüm-Menü ändern"
+                title = "Outfit importiert",
+                description = "Sie können jetzt das Outfit über das Outfit-Menü ändern"
             },
             failure = {
                 title = "Importfehler",
-                description = "Ungültiger Kostüm-Code"
+                description = "Ungültiger Outfit-Code"
             }
         },
         generate = {
-            title = "Generiere Kostüm-Code",
-            description = "Generieren Sie einen Kostüm-Code zum Teilen",
+            title = "Generiere Outfit-Code",
+            description = "Generieren Sie einen Outfit-Code zum Teilen",
             failure = {
                 title = "Etwas ist schief gelaufen",
-                description = "Die Code-Generierung für das Kostüm ist fehlgeschlagen"
+                description = "Die Code-Generierung für das Outfit ist fehlgeschlagen"
             },
             success = {
-                title = "Kostüm-Code generiert",
-                description = "Hier ist Ihr Kostüm-Code"
+                title = "Outfit-Code generiert",
+                description = "Hier ist Ihr Outfit-Code"
             }
         },
         save = {
-            menuTitle = "Aktuelles Kostüm speichern",
-            menuDescription = "Speichern Sie Ihr aktuelles Kostüm als %s Kostüm",
-            description = "Speichern Sie Ihr aktuelles Kostüm",
-            title = "Benennen Sie Ihr Kostüm",
-            managementTitle = "Management Kostüm Details",
+            menuTitle = "Aktuelles Outfit speichern",
+            menuDescription = "Speichern Sie Ihr aktuelles Outfit als %s Outfit",
+            description = "Speichern Sie Ihr aktuelles Outfit",
+            title = "Benennen Sie Ihr Outfit",
+            managementTitle = "Management Outfit Details",
             name = {
-                label = "Kostümname",
-                placeholder = "Sehr cooles Kostüm"
+                label = "Outfitname",
+                placeholder = "Sehr cooles Outfit"
             },
             gender = {
                 label = "Geschlecht",
@@ -214,49 +214,49 @@ Locales["de"] = {
             },
             failure = {
                 title = "Speichern fehlgeschlagen",
-                description = "Ein Kostüm mit diesem Namen existiert bereits"
+                description = "Ein Outfit mit diesem Namen existiert bereits"
             },
             success = {
                 title = "Erfolg",
-                description = "Kostüm %s wurde gespeichert"
+                description = "Outfit %s wurde gespeichert"
             }
         },
         update = {
-            title = "Kostüm aktualisieren",
-            description = "Speichern Sie Ihre aktuelle Kleidung in einem vorhandenen Kostüm",
+            title = "Outfit aktualisieren",
+            description = "Speichern Sie Ihre aktuelle Kleidung in einem vorhandenen Outfit",
             failure = {
                 title = "Aktualisierung fehlgeschlagen",
-                description = "Dieses Kostüm existiert nicht"
+                description = "Dieses Outfit existiert nicht"
             },
             success = {
                 title = "Erfolg",
-                description = "Kostüm %s wurde aktualisiert"
+                description = "Outfit %s wurde aktualisiert"
             }
         },
         change = {
-            title = "Kostüm ändern",
-            description = "Wählen Sie eines Ihrer %s gespeicherten Kostüme aus",
-            pDescription = "Wählen Sie eines Ihrer gespeicherten Kostüme aus",
+            title = "Outfit ändern",
+            description = "Wählen Sie eines Ihrer %s gespeicherten Outfits aus",
+            pDescription = "Wählen Sie eines Ihrer gespeicherten Outfits aus",
             failure = {
                 title = "Etwas ist schief gelaufen",
-                description = "Das Kostüm, zu dem Sie wechseln möchten, hat kein Basiselement",
+                description = "Das Outfit, zu dem Sie wechseln möchten, hat kein Basiselement",
             }
         },
         delete = {
-            title = "Kostüm löschen",
-            description = "Löschen Sie ein gespeichertes %s Kostüm",
-            mDescription = "Löschen Sie jedes Ihrer gespeicherten Kostüme",
+            title = "Outfit löschen",
+            description = "Löschen Sie ein gespeichertes %s Outfit",
+            mDescription = "Löschen Sie jedes Ihrer gespeicherten Outfits",
             item = {
                 title = 'Löschen von "%s"',
                 description = "Modell: %s%s"
             },
             success = {
                 title = "Erfolg",
-                description = "Kostüm gelöscht"
+                description = "Outfit gelöscht"
             }
         },
         manage = {
-            title = "👔 | Verwalten von %s Kostümen"
+            title = "👔 | Verwalten von %s Outfitsn"
         }
     },
     jobOutfits = {
@@ -266,7 +266,7 @@ Locales["de"] = {
     menu = {
         returnTitle = "Zurück",
         title = "Kleiderzimmer",
-        outfitsTitle = "Spieler Kostüme",
+        outfitsTitle = "Spieler Outfits",
         clothingShopTitle = "Kleidungsgeschäft",
         barberShopTitle = "Friseur",
         tattooShopTitle = "Tattoo-Shop",
@@ -280,9 +280,9 @@ Locales["de"] = {
             description = "Wählen Sie aus einer breiten Palette von Kleidungsstücken"
         },
         outfits = {
-            title = "👔 | Kostüm Optionen",
+            title = "👔 | Outfit Optionen",
             civilian = {
-                title = "Zivilist Kostüm",
+                title = "Zivilist Outfit",
                 description = "Zieh deine Kleider an"
             }
         }
@@ -322,7 +322,7 @@ Locales["de"] = {
         tattoo = "Tattoo-Shop - Preis: $%d",
         surgeon = "Schönheitschirurg - Preis: $%d",
         clothingRoom = "Kleiderzimmer",
-        playerOutfitRoom = "Kostüme"
+        playerOutfitRoom = "Outfits"
     },
     migrate = {
         success = {
