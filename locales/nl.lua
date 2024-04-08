@@ -314,9 +314,6 @@ Locales["nl"] = {
         },
         gangoutfits = {
             title = "Opent het menu Bende-outfits"
-        },
-        bossmanagedoutfits = {
-            title = "Opent het menu met door de baas beheerde outfits"
         }
     },
     textUI = {

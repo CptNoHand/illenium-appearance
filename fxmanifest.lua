@@ -22,15 +22,12 @@ client_scripts {
   "client/framework/qb/migrate.lua",
   "client/framework/esx/compatibility.lua",
   "client/framework/esx/main.lua",
-  "client/framework/ox/main.lua",
   "client/target/target.lua",
   "client/target/qb.lua",
   "client/target/ox.lua",
   "client/management/management.lua",
-  "client/management/common.lua",
   "client/management/qb.lua",
   "client/management/qbx.lua",
-  "client/management/esx.lua",
   "client/radial/radial.lua",
   "client/radial/qb.lua",
   "client/radial/ox.lua",
@@ -56,8 +53,6 @@ server_scripts {
   "server/framework/esx/main.lua",
   "server/framework/esx/migrate.lua",
   "server/framework/esx/callbacks.lua",
-  "server/framework/esx/management.lua",
-  "server/framework/ox/main.lua",
   "server/util.lua",
   "server/server.lua",
   "server/permissions.lua"
@@ -74,7 +69,6 @@ shared_scripts {
   "locales/locales.lua",
   "locales/ar.lua",
   "locales/bg.lua",
-  "locales/cs.lua",
   "locales/de.lua",
   "locales/en.lua",
   "locales/es-ES.lua",
@@ -84,7 +78,6 @@ shared_scripts {
   "locales/nl.lua",
   "locales/pt-BR.lua",
   "locales/ro-RO.lua",
-  "locales/id.lua",
   "@ox_lib/init.lua"
 }
 

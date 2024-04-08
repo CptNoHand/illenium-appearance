@@ -314,9 +314,6 @@ Locales["ar"] = {
         },
         gangoutfits = {
             title = "يفتح قائمة أزياء العصابات"
-        },
-        bossmanagedoutfits = {
-            title = "يفتح قائمة ملابس المدير"
         }
     },
     textUI = {

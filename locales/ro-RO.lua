@@ -314,9 +314,6 @@ Locales["ro-RO"] = {
         },
         gangoutfits = {
             title = "Deschide meniul Gang Outfits"
-        },
-        bossmanagedoutfits = {
-            title = "Deschide meniul pentru outfit-urile administrate de șef"
         }
     },
     textUI = {

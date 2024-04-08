@@ -314,9 +314,6 @@ Locales["en"] = {
         },
         gangoutfits = {
             title = "Opens Gang Outfits Menu"
-        },
-        bossmanagedoutfits = {
-            title = "Opens Boss Managed Outfits Menu"
         }
     },
     textUI = {
